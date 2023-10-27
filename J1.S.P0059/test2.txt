@@ -1,0 +1,4 @@
+Nguyen Hai; hai duong; 100
+Nguyen Ha; ninh giang; 300
+hien nguyen; tu ki; 200
+ha ha; minh duc; 1000

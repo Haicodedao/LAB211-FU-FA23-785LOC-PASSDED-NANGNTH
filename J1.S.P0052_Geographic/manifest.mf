@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+x-COMMENT: Main-Class will be added automatically by build
+
